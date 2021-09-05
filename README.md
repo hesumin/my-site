@@ -31,12 +31,16 @@ My Site是由Docker+SpringBoot2.0+Mybatis+thymeleaf等技术实现的个人网�
 
 **首页：**
 ![网站首页](http://img.winterchen.com/WX20180512-181947@2x.png)
+
 **关于页：**
 ![关于页](http://img.winterchen.com/eqqeqqe.png)
+
 **博客首页：**
 ![博客首页](http://img.winterchen.com/WX20180512-182057@2x.png)
+
 **登录页：**
 ![登录页](http://img.winterchen.com/tqad8k3tisi01qjtrv47k5nso4.png)
+
 **后台首页：**
 ![文章列表页](http://img.winterchen.com/eqeqeqeqe.png)
 
@@ -46,22 +50,13 @@ My Site是由Docker+SpringBoot2.0+Mybatis+thymeleaf等技术实现的个人网�
 # Log
 
 - 2018-07-12: 修复缓存导致更新和删除文章不生效的Bug
-
 - 2018-05-28：增加了EhCache缓存功能
-
 - 2018-05-15：修复主页和博客的列表的样式在手机端显示有偏位的bug
-
 - 2018-05-14：修复评论数不叠加的bug，优化了博客文字排版，添加了博客无图随机添加一张标题图片
-
 - 2018-05-12：重新换了网站的主题
-
 - 2018-05-10：优化了作品页和博客页的header的样式，更加简约和美观
-
 - 2018-05-08：修复了编辑文章的一些bug
-
 - 2018-05-05: 优化了选择文章类型，增加了评论功能
-
 - 2018-05-03: 发布第一版
-
-
+- 2021年9月5日14:28:49 
 
