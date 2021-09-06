@@ -1,7 +1,3 @@
 tst
 test
 test
-test
-test
-sdbs
-sdg
