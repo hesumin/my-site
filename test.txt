@@ -2,5 +2,3 @@ tst
 test
 test
 test
-tsfsb
-asg
